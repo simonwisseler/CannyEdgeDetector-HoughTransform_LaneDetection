@@ -1,3 +1,9 @@
+-----
+This repo contains an implementation of a simple image processing pipeline including the Canny Edge Detector and the Hough transform for lane detection. It is built on Udacity's Self-Driving Car Nanodegree CarND-LaneLines-P1.
+
+The description below comes from the original repo (https://github.com/udacity/CarND-LaneLines-P1.git).
+
+-----
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
